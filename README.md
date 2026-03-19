@@ -5,6 +5,8 @@
 This repository is the code release for the paper "A Multimodal Hybrid Late-Cascade Fusion Network for Enhanced 3D Object Detection", published in the 2024 ECCV workshop "Multimodal Perception and Comprehension of Corner Cases in Autonomous Driving"
 [Paper](https://arxiv.org/abs/2504.18419)
 
+Please refer to [LCF3D](https://github.com/CarloSgaravatti/LCF3D) for an extension of this work to the single-view and multi-view scenarios.
+
 ## Getting Started
 
 ### 1. Clone the repository
